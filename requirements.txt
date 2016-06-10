@@ -1,0 +1,5 @@
+salt-pepper
+kazoo
+requests
+pymongo
+datadiff
