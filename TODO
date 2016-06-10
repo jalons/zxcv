@@ -1,1 +1,4 @@
 1.) Create sample secrets config
+2.) git config
+3.) salt states (ansible?) to copy files around
+4.) clean up .vim directory
